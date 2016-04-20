@@ -1,8 +1,7 @@
+name: theromanticbloke
+favicon: null
 layout_spectrum: 0.6648746
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.3462312081828713
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.3315412
-  brandStrength: 0.4838058601599187
-  lightness: 0.3942652
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0.265233
-typography_spectrum: 0.3462312081828713
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: theromanticbloke
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#bae6fd'
+    - '#3f6389'
+    - '#679cd7'
+    - '#091500'
+    - '#756000'
+  brandStrength: 0.5
+  lightness: 0.3942652
+  saturation: 0.3315412
+  rhythmicContrast: 0.265233
+purpose: []

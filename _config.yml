@@ -1,0 +1,28 @@
+name: theromanticbloke
+favicon: null
+layout_spectrum: 0.37263484741561115
+typography_spectrum: 0.34623120818287134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.48380586015991867
+  lightness: 0.9220904561225325
+  saturation: 0.39096941775642335
+  rhythmicContrast: 0.274986881762743
+purpose: []

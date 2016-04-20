@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A few months back, I was telling one of my mates about a fantastic little getaway that my wife and I had recently enjoyed. Superb accommodation, beautiful scenery, delicious food and a shiraz that you would sell your nan for (well maybe for a case of it). '
-datePublished: '2016-04-20T01:13:33.740Z'
-dateModified: '2016-04-20T00:57:01.353Z'
+datePublished: '2016-04-20T01:14:23.319Z'
+dateModified: '2016-04-20T01:14:07.121Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-a-few-months-back-i-was-telling-one-of-my-mates-about-a-fan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-a-few-months-back-i-was-telling-one-of-my-mates-about-a-fan.md
-published: true
 url: a-few-months-back-i-was-telling-one-of-my-mates-about-a-fan/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b3a097f-bdf2-48f8-a24d-2597a70fddad.jpg)
+
 A few months back, I was telling one of my mates about a fantastic little getaway that my wife and I had recently enjoyed. Superb accommodation, beautiful scenery, delicious food and a shiraz that you would sell your nan for (well maybe for a case of it). 
 
 When he asked what the occasion was for us to celebrate in such a manner, I replied..."nothing really, just to getaway and enjoy being a couple again". The gob smacked look on his face both surprised and amused me. Here was a fella who's idea of a romantic night out with his lovely was a trip to Gold Class to see the latest blockbuster (that was most likely of his choosing, although I do suspect he enjoyed Magic Mike 2 more than he should have). "How do you come up with these ideas? You & Meags are always off somewhere and doing cool stuff... you're a bloody romantic aren't you!" The words came out of his mouth in an almost accusing manner; (you're one of those aren't you... one of those undesirable romantic types that makes us regular blokes look like miserable bastards in our wives/girlfriends/partner's eyes....you mongrel). 
